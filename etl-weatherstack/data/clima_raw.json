@@ -1,0 +1,28 @@
+[
+  {
+    "ciudad": "Bogota",
+    "pais": "Colombia",
+    "latitud": "4.600",
+    "longitud": "-74.083",
+    "temperatura": 11,
+    "sensacion_termica": 12,
+    "humedad": 100,
+    "velocidad_viento": 4,
+    "descripcion": "Partly cloudy",
+    "fecha_extraccion": "2026-02-19T07:22:31.715331",
+    "codigo_tiempo": 116
+  },
+  {
+    "ciudad": "Barranquilla",
+    "pais": "Colombia",
+    "latitud": "10.964",
+    "longitud": "-74.796",
+    "temperatura": 27,
+    "sensacion_termica": 31,
+    "humedad": 74,
+    "velocidad_viento": 18,
+    "descripcion": "Partly Cloudy ",
+    "fecha_extraccion": "2026-02-19T07:22:32.820262",
+    "codigo_tiempo": 116
+  }
+]
